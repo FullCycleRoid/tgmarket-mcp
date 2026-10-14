@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.tgmarket/tgmarket",
+  "title": "TG Market",
+  "description": "Search millions of Telegram channels: metrics, growth, ads, posts and row-priced exports.",
+  "version": "1.0.0",
+  "websiteUrl": "https://tgmarket.io/docs/mcp",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://tgmarket.io/mcp" }
+  ]
+}
